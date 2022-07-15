@@ -1,0 +1,32 @@
+* { 
+
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem;
+}
+
+main {
+  margin: 3rem;
+}
+
+nav {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 2rem;
+}
+
+.foto img {
+  height: 520px;
+  width: 360px;
+  left: 140px;
+  top: 180px;
+  border-radius: 5px;
+}
+
+.primeira-parte {
+  display: flex;
+  gap: 2rem;
+}
